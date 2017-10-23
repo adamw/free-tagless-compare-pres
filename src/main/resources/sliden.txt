@@ -15,6 +15,8 @@
 
 * https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/
 
+* https://github.com/adamw/free-tagless-compare-pres
+
 * http://www.softwaremill.com
 
 * @adamwarski
