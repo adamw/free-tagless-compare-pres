@@ -1,0 +1,10 @@
+When to use Free?
+
+  * cross-cutting concerns
+  * libraries
+  * passing values representing programs
+
+When to use Tagless?
+
+  * higher-level business concepts
+  * a large number of languages to combine

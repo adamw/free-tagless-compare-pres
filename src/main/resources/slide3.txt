@@ -1,0 +1,9 @@
+Free:
+
+  programs are built from constructors (ADT)
+
+
+
+Tagless:
+
+  programs are built from functions

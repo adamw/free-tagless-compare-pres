@@ -1,0 +1,9 @@
+Free:
+
+  plain values
+
+
+
+Tagless:
+
+  expressions parametrized by a type constructor (F[_])
