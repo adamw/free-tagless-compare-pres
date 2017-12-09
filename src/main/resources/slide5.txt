@@ -1,9 +1,22 @@
-Free:
+.___________. __    __       ___      .__   __.  __  ___    
+|           ||  |  |  |     /   \     |  \ |  | |  |/  /    
+`---|  |----`|  |__|  |    /  ^  \    |   \|  | |  '  /     
+    |  |     |   __   |   /  /_\  \   |  . `  | |    <      
+    |  |     |  |  |  |  /  _____  \  |  |\   | |  .  \     
+    |__|     |__|  |__| /__/     \__\ |__| \__| |__|\__\    
+                                                            
+          ____    ____  ______    __    __
+          \   \  /   / /  __  \  |  |  |  |
+           \   \/   / |  |  |  | |  |  |  |
+            \_    _/  |  |  |  | |  |  |  |
+              |  |    |  `--'  | |  `--'  |
+              |__|     \______/   \______/
 
-  stack-safe
 
+* https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/
 
+* https://github.com/adamw/free-tagless-compare-pres
 
-Tagless:
+* http://www.softwaremill.com
 
-  stack-safety depends on the target monad
+* @adamwarski

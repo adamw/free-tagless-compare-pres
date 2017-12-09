@@ -1,9 +1,10 @@
-Free:
+When to use Free?
 
-  plain values
+  * cross-cutting concerns
+  * libraries
+  * passing values representing programs
 
+When to use Tagless?
 
-
-Tagless:
-
-  expressions parametrized by a type constructor (F[_])
+  * higher-level business concepts
+  * a large number of languages to combine

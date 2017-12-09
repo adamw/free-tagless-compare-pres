@@ -1,9 +1,0 @@
-Free:
-
-  each operation is reified as a value
-
-
-
-Tagless:
-
-  can have less overhead, without creating intermediate objects

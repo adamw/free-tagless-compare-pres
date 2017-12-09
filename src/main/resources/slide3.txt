@@ -1,9 +1,21 @@
-Free:
+Free:                                    Tagless
 
-  programs are built from constructors (ADT)
+  program is data                        program is an expression
 
+  programs are built from                programs are built from functions
+  constructors (ADT)
 
+  plain values                           expressions parametrized by a
+                                         type constructor (F[_])
 
-Tagless:
+  stack-safe                             stack-safety depends on the target monad
 
-  programs are built from functions
+  each operation is reified              can have less overhead, without creating
+  as a value                             intermediate objects
+
+  easy pattern matching for              pattern matching possible, but harder
+  inspection and optimization
+
+  combining languages using EitherK      combining languages using multiple
+  and implicit Inject instances,         algebras, less boilerplate
+  some boilerplate

@@ -1,9 +1,0 @@
-Free:
-
-  combining languages using Coproducts and implicit Inject instances, some boilerplate
-
-
-
-Tagless:
-
-  combining languages using multiple algebras, less boilerplate
