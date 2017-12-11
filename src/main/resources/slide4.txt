@@ -4,6 +4,8 @@ When to use Free?
   * libraries
   * passing values representing programs
 
+  * Task, IO, Async, DBIOAction, ...
+
 When to use Tagless?
 
   * higher-level business concepts
