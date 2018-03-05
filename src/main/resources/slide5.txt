@@ -1,15 +1,22 @@
-Free/Tagless @ ScalaX
+.___________. __    __       ___      .__   __.  __  ___    
+|           ||  |  |  |     /   \     |  \ |  | |  |/  /    
+`---|  |----`|  |__|  |    /  ^  \    |   \|  | |  '  /     
+    |  |     |   __   |   /  /_\  \   |  . `  | |    <      
+    |  |     |  |  |  |  /  _____  \  |  |\   | |  .  \     
+    |__|     |__|  |__| /__/     \__\ |__| \__| |__|\__\    
+                                                            
+          ____    ____  ______    __    __
+          \   \  /   / /  __  \  |  |  |  |
+           \   \/   / |  |  |  | |  |  |  |
+            \_    _/  |  |  |  | |  |  |  |
+              |  |    |  `--'  | |  `--'  |
+              |__|     \______/   \______/
 
-Thursday
-* 14:00 Debasish Ghosh,
-        "Architectural patterns in Building Modular Domain Models"
 
-* 16:15 Raul Raja Martinez,
-        "Introduction to Freestyle & Freestyle RPC"
+* https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/
 
-Friday
-* 10:45 Michał Płachta,
-        "Freestyle, Free & Tagless: Separation of Concerns on Steroids"
+* https://github.com/adamw/free-tagless-compare-pres
 
-* 16:00 Luka Jacobowitz,
-        "Building a Tagless Final DSL for WebGL in Scala"
+* http://www.softwaremill.com
+
+* @adamwarski
